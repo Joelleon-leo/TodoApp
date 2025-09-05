@@ -1,0 +1,69 @@
+{
+  "users": [
+    {
+      "id": "c746",
+      "username": "karthi",
+      "password": "kk",
+      "todos": [
+        {
+          "id": "1755758691778",
+          "task": "to do",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": "daba",
+      "username": "Leo",
+      "password": "123",
+      "todos": []
+    },
+    {
+      "id": "6287",
+      "username": "Joell",
+      "password": "678",
+      "todos": []
+    },
+    {
+      "id": "6fab",
+      "username": "yy",
+      "password": "234",
+      "todos": []
+    },
+    {
+      "id": "bc62",
+      "username": "qwe",
+      "password": "123",
+      "todos": []
+    },
+    {
+      "id": "1411",
+      "username": "yy",
+      "password": "456",
+      "todos": [
+        {
+          "id": "1755758950556",
+          "task": "assinment",
+          "completed": false
+        },
+        {
+          "id": "1755758962239",
+          "task": "homework",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": "dadb",
+      "username": "sam",
+      "password": "567",
+      "todos": [
+        {
+          "id": "1757057450384",
+          "task": "learn next js",
+          "completed": false
+        }
+      ]
+    }
+  ]
+}
