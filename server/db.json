@@ -57,13 +57,7 @@
       "id": "dadb",
       "username": "sam",
       "password": "567",
-      "todos": [
-        {
-          "id": "1757057450384",
-          "task": "learn next js",
-          "completed": false
-        }
-      ]
+      "todos": []
     }
   ]
 }
